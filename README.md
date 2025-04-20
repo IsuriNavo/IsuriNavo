@@ -1,4 +1,8 @@
 ## Hi there 👋
+I'm Isuri Navoda . I'm an second year Undergraduate at NSBM Green University under BSc Management Information Systems (Special)degree.
+- 🔭 I’m currently studying at NSBM Green University...
+- 🌱 I’m currently learning Python, Java, HTML, CSS, PHP etc ....
+
 
 <!--
 **IsuriNavo/IsuriNavo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
